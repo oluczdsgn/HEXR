@@ -1,0 +1,5 @@
+{
+  "name": "RetroImage Studio",
+  "description": "Um editor de imagens com efeitos VHS, texturas de cores e ajustes finos. Suporta exportação em alta qualidade e temas claro/escuro.",
+  "requestFramePermissions": []
+}
